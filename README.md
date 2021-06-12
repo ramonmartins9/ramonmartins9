@@ -7,9 +7,9 @@ I think my motto is "always learning" because in this area we learn every day in
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **Ramon Martins** {
- val name = "Ramon dos Santos Costa Martins"
- val acknowledgements = "Full-stack developer"
+object **Ramon** {
+ val name = "Ramon Martins"
+ val acknowledgements = "Full-Stack Developer"
  
  val primarySkillset = "SOME SKILLS"
  val languages = listOf("JavaScript", "TypeScript", "SQL")
