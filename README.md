@@ -13,7 +13,7 @@ object **Ramon** {
  
  val primarySkillset = "SOME SKILLS"
  val languages = listOf("JavaScript", "TypeScript", "SQL")
- val frameworks/tools = listOf("React", "React Native", "Git", "NextJS", "NodeJS" ) 
+ val frameworks/tools = listOf("React", "React Native", "NextJS", "NodeJS" ) 
 
 }
 ```
